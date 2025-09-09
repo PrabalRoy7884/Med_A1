@@ -1,0 +1,167 @@
+{
+  "dataset_stats": {
+    "n_samples": 4920,
+    "n_features": 132,
+    "n_classes": 42,
+    "avg_symptoms_per_patient": 4.996138211382114,
+    "class_balance_std": 0.3541688016605732
+  },
+  "top_diseases": {
+    "Fungal infection": 118,
+    "GERD": 118,
+    "Chronic cholestasis": 118,
+    "Drug Reaction": 118,
+    "Peptic ulcer disease": 118,
+    "Allergy": 118,
+    "Hyperthyroidism": 117,
+    "Common Cold": 117,
+    "Pneumonia": 117,
+    "Dimorphic hemmorhoids(piles)": 117
+  },
+  "top_symptoms": {
+    "vomiting": 1492,
+    "fatigue": 1133,
+    "headache": 822,
+    "high_fever": 777,
+    "nausea": 775,
+    "loss_of_appetite": 760,
+    "abdominal_pain": 652,
+    "skin_rash": 619,
+    "yellowish_skin": 591,
+    "itching": 544,
+    "chills": 429,
+    "joint_pain": 418,
+    "yellowing_of_eyes": 389,
+    "sweating": 371,
+    "loss_of_balance": 364,
+    "diarrhoea": 363,
+    "chest_pain": 358,
+    "cough": 338,
+    "dark_urine": 316,
+    "breathlessness": 288
+  },
+  "important_features": [
+    {
+      "Feature": "scurring",
+      "Chi2_Score": 4075.1360089186182
+    },
+    {
+      "Feature": "extra_marital_contacts",
+      "Chi2_Score": 3992.761788833643
+    },
+    {
+      "Feature": "altered_sensorium",
+      "Chi2_Score": 3909.0062118982983
+    },
+    {
+      "Feature": "pus_filled_pimples",
+      "Chi2_Score": 3907.4663150046426
+    },
+    {
+      "Feature": "nodal_skin_eruptions",
+      "Chi2_Score": 3837.4037375054363
+    },
+    {
+      "Feature": "continuous_feel_of_urine",
+      "Chi2_Score": 3830.3145381545332
+    },
+    {
+      "Feature": "blackheads",
+      "Chi2_Score": 3825.7740478540454
+    },
+    {
+      "Feature": "shivering",
+      "Chi2_Score": 3789.6377661886204
+    },
+    {
+      "Feature": "burning_micturition",
+      "Chi2_Score": 3784.7666569621524
+    },
+    {
+      "Feature": "watering_from_eyes",
+      "Chi2_Score": 3738.016117755987
+    },
+    {
+      "Feature": "spotting_urination",
+      "Chi2_Score": 3725.488936576359
+    },
+    {
+      "Feature": "foul_smell_of_urine",
+      "Chi2_Score": 3716.660187270359
+    },
+    {
+      "Feature": "stomach_pain",
+      "Chi2_Score": 3666.5428074750153
+    },
+    {
+      "Feature": "muscle_weakness",
+      "Chi2_Score": 3648.570171354067
+    },
+    {
+      "Feature": "red_sore_around_nose",
+      "Chi2_Score": 3638.405731523379
+    },
+    {
+      "Feature": "yellow_crust_ooze",
+      "Chi2_Score": 3625.618393340691
+    },
+    {
+      "Feature": "painful_walking",
+      "Chi2_Score": 3623.6440813072954
+    },
+    {
+      "Feature": "dischromic_patches",
+      "Chi2_Score": 3597.465951258655
+    },
+    {
+      "Feature": "weakness_of_one_body_side",
+      "Chi2_Score": 3566.801469716727
+    },
+    {
+      "Feature": "small_dents_in_nails",
+      "Chi2_Score": 3554.8384377588113
+    },
+    {
+      "Feature": "dehydration",
+      "Chi2_Score": 3508.0993531727495
+    },
+    {
+      "Feature": "sunken_eyes",
+      "Chi2_Score": 3486.592689168961
+    },
+    {
+      "Feature": "mucoid_sputum",
+      "Chi2_Score": 3463.4256410256457
+    },
+    {
+      "Feature": "passage_of_gases",
+      "Chi2_Score": 3456.192621565505
+    },
+    {
+      "Feature": "bloody_stool",
+      "Chi2_Score": 3444.5614909405517
+    },
+    {
+      "Feature": "inflammatory_nails",
+      "Chi2_Score": 3432.1586266840527
+    },
+    {
+      "Feature": "pain_during_bowel_movements",
+      "Chi2_Score": 3426.7278497080474
+    },
+    {
+      "Feature": "patches_in_throat",
+      "Chi2_Score": 3404.8685313194483
+    },
+    {
+      "Feature": "neck_pain",
+      "Chi2_Score": 3395.760683760688
+    },
+    {
+      "Feature": "muscle_wasting",
+      "Chi2_Score": 3391.5475624408796
+    }
+  ],
+  "pca_components_95_variance": 107,
+  "optimal_clusters": 10
+}

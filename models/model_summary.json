@@ -1,0 +1,29 @@
+{
+  "model_info": {
+    "name": "MediPredict AI - Smart Symptom Assistant",
+    "type": "AI-Generated with Smart Confidence",
+    "training_date": "2025-09-09T12:41:06.426095",
+    "training_method": "Enhanced with Pattern Matching"
+  },
+  "data_info": {
+    "training_samples": 4920,
+    "test_samples": 42,
+    "total_features": 132,
+    "selected_features": 100,
+    "classes": 42
+  },
+  "performance": {
+    "test_accuracy": 0.8809523809523809,
+    "test_precision": 0.8809523809523809,
+    "test_recall": 0.8809523809523809,
+    "test_f1_score": 0.8809523809523809,
+    "validation_accuracy": 0.8313008130081301,
+    "cross_validation_score": 0.8172764227642275
+  },
+  "model_diagnostics": {
+    "overfitting_score": 0.04965156794425085,
+    "correctly_classified": 37,
+    "misclassified": 5,
+    "error_rate": 0.11904761904761907
+  }
+}

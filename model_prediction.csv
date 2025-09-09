@@ -1,0 +1,6 @@
+timestamp,symptoms,predicted_disease,confidence,is_training_pattern,original_confidence
+9/9/2025 12:19,back_pain;anxiety;burning_micturition;cough;breathlessness;chest_pain;phlegm;throat_irritation;runny_nose,Urinary tract infection,0.123056145,,
+9/9/2025 12:20,back_pain;anxiety;burning_micturition;cough;breathlessness;phlegm;throat_irritation;runny_nose,Urinary tract infection,0.123370061,,
+9/9/2025 12:25,itching;skin_rash;nodal_skin_eruptions;acute_liver_failure,Fungal infection,0.487483974,,
+9/9/2025 13:20,itching;skin_rash,Chicken pox,0.97,TRUE,0.099135782
+2025-09-09 13:22:25,itching;skin_rash;knee_pain,Osteoarthristis,0.5,False,0.09691509699567677
